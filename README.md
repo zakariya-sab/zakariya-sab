@@ -6,8 +6,7 @@
 
 📍 **Computer Science Student** | 🎓 University of Ibn Zohr, Agadir  
 🌍 **Morocco** | 📧 [zakariya.sabri.12@edu.uiz.ac.ma](mailto:zakariya.sabri.12@edu.uiz.ac.ma)  
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](YOUR_TWITTER_URL)
-
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)]([https://www.linkedin.com/in/zakariya-sabri-307b65304/]) 
 ---
 
 ## 🚀 About Me
