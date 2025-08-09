@@ -14,5 +14,4 @@
 ## 🚀 About Me
 ```diff
 + Passionate developer with focus on problem-solving and clean code.
-! Currently exploring AI/ML and Open-Source contributions.
-# 138+ contributions in the last year.
+# 88+ contributions in the last year.
