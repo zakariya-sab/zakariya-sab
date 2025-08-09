@@ -1,10 +1,10 @@
 # Zakariya Sabri 👨‍💻
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_PROFILE_ID?v=4" width="200" style="border-radius:50%">
+  
 </div>
 
-📍 **Computer Science Student** | 🎓 University of Ibn Zohr, Agadir  
+📍 **Computer Science Student**   
 🌍 **Morocco** | 📧 [zakariya.sabri.12@edu.uiz.ac.ma](mailto:zakariya.sabri.12@edu.uiz.ac.ma)  
 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/zakariya-sabri-307b65304/) 
 ---
