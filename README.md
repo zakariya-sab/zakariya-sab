@@ -4,8 +4,7 @@
   
 </div>
 
-📍 **Computer Science Student** 
-🌍 **Morocco** | 📧 [zakariya.sabri.12@edu.uiz.ac.ma](mailto:zakariya.sabri.12@edu.uiz.ac.ma)  
+📍 **Computer Science Student**  
 🔗 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zakariya-sabri-307b65304/)[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ZAKARIYA-SABRI)
 
